@@ -13,10 +13,10 @@ author: Can Sar
 
 navbar-links:
   About Me: "aboutme"
-  Resources:
-    - Testing1: "http://deanattali.com/beautiful-jekyll/"
-    - Testing2: "http://www.markdowntutorial.com/"
-  Notes: "http://notes.cansar.com"
+#  Resources:
+#    - Testing1: "http://deanattali.com/beautiful-jekyll/"
+#    - Testing2: "http://www.markdowntutorial.com/"
+#  Notes: "http://notes.cansar.com"
 
 # --- Local development options ---
 
