@@ -1,13 +1,13 @@
 # --- Basic options --- #
 
 # Name of website
-title: My website
+title: Can Sar
 
 # Short description of your site
-description: A virtual proof that I'm awesome
+description: Description here
 
 # Your name to show in the footer
-author: Some Person
+author: Can Sar
 
 # --- List of links in the navigation bar --- #
 
@@ -16,7 +16,7 @@ navbar-links:
   Resources:
     - Testing1: "http://deanattali.com/beautiful-jekyll/"
     - Testing2: "http://www.markdowntutorial.com/"
-  Notes: "http://deanattali.com"
+  Notes: "http://notes.cansar.com"
 
 # --- Local development options ---
 
@@ -33,7 +33,7 @@ navbar-links:
 
 # Image to show in the navigation bar - works best with a square image
 # Remove this parameter if you don't want an image in the navbar
-avatar: "/img/avatar-icon.png"
+# avatar: "/img/avatar-icon.png"
 
 # By default, the image is cut into a circle. You can disable this behaviour here.
 round-avatar: true
