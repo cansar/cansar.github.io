@@ -4,7 +4,7 @@
 title: Can Sar
 
 # Short description of your site
-description: ''
+description: ~
 
 # Your name to show in the footer
 author: Can Sar
@@ -158,8 +158,7 @@ utterances:
 
 # Character used to separate site title and description in HTML document title
 # and RSS feed title
-# title-separator: "-"
-title-separator: ""
+title-separator: "-"
 
 
 # Ruby Date Format to show dates of posts
