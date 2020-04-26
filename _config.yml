@@ -14,9 +14,9 @@ author: Some Person
 navbar-links:
   About Me: "aboutme"
   Resources:
-    - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
-    - Learn markdown: "http://www.markdowntutorial.com/"
-  Author's home: "http://deanattali.com"
+    - Testing1: "http://deanattali.com/beautiful-jekyll/"
+    - Testing2: "http://www.markdowntutorial.com/"
+  Notes: "http://deanattali.com"
 
 # --- Local development options ---
 
