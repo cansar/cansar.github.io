@@ -2,6 +2,8 @@
 layout: post
 title: Things in excess become their opposite
 hidden: true
+tags: [old]
+redirect_from: "/2010/06/04/things-in-excess-become-their-opposite/"
 ---
 
 Tim Ferriss – The Four Hour Work Week:
